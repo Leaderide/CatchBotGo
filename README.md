@@ -1,3 +1,3 @@
 # CatchBotGo
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Leaderide/CatchBotGo/blob/main/templates/picture.ico)
