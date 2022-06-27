@@ -53,5 +53,5 @@ Features:
   * **CheckIfMenuButton()** checks if the menu button is visible (maybe to see if he is in the wrong screen).
   * **CheckIfX()** checks if "X" is visible on screen, to press it **ClickOnX()**, if he is in the wrong screen.
 
-#Download
+# Download
 Go to the right side, where releases are. It's a rar file.
