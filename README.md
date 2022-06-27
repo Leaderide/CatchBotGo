@@ -3,9 +3,11 @@
 
 ![Logo](https://github.com/Leaderide/CatchBotGo/blob/main/templates/picture.ico)
 
-CatchBotGo is a software that works together with PGSharp. 
+CatchBotGo is a software that works together with [**PGSharp**](https://www.pgsharp.com/). 
 The last version of CatchBotGo was completed around March. 
 It's not a full version yet, it still needs work, but I don't have any more interest in it.
+I don't know what the current version of PGSharp looks like, 
+so I can't guarantee that this program is still running.
 That's why I release the source code, everyone is allowed to read, edit and publish.
 It is still buggy, but many things work.
 
