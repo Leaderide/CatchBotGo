@@ -3,6 +3,12 @@
 
 ![Logo](https://github.com/Leaderide/CatchBotGo/blob/main/templates/picture.ico)
 
+Inspired by: [RealAndroidBot](https://github.com/MerlionRock/RealAndroidBot)
+
+I started programming CatchBotGo to gain some OpenCV and botting knowledge.
+I did not intend to sell it, but to make it freely available (without premium features), unlike RAB.
+But I didn't enjoy it anymore and stopped at some point, but it's already a pretty good version.
+
 CatchBotGo is a software that works together with [**PGSharp**](https://www.pgsharp.com/). 
 The last version of CatchBotGo was completed around March. 
 It's not a full version yet, it still needs work, but I don't have any more interest in it.
@@ -14,13 +20,13 @@ It is still buggy, but many things work.
 Some folders in this project are redundant, but I can't remember which ones, 
 so I'll leave them in just to be on the safe side.
 
-Features:
-* Automatically move PGSharp's Pokemon Radar to the corner so that Pokemon can be clicked.
-* Click on Pokemon.
-* Read Pokemon names during the catch cycle and catch Pokemon.
-* Find pokestops nearby and click on them, if further away, click randomly to walk. (buggy)
-* Checks if the Pokestop is used and exits the screen.
-* transfer Pokemon after catch.
+## Features
+  * Automatically move PGSharp's Pokemon Radar to the corner so that Pokemon can be clicked.
+  * Click on Pokemon.
+  * Read Pokemon names during the catch cycle and catch Pokemon.
+  * Find pokestops nearby and click on them, if further away, click randomly to walk. (buggy)
+  * Checks if the Pokestop is used and exits the screen.
+  * Transfer Pokemon after catch.
 
   
   
