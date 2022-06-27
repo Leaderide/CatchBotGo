@@ -55,4 +55,4 @@ Features:
 
 # Download
 Go to the right side, where releases are. It's a rar file.
-Or here: [CatchBotGo]https://github.com/Leaderide/CatchBotGo/releases/tag/v0.2
+Or here: [CatchBotGo](https://github.com/Leaderide/CatchBotGo/releases/tag/v0.2)
