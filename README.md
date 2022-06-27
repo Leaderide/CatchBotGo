@@ -56,3 +56,8 @@ Features:
 # Download
 Go to the right side, where releases are. It's a rar file.
 Or here: [CatchBotGo](https://github.com/Leaderide/CatchBotGo/releases/tag/v0.2)
+# Disclaimer
+©2016 Niantic, Inc. ©2016 Pokémon. ©1995–2016 Nintendo / Creatures Inc. / GAME FREAK inc. © 2016 Pokémon/Nintendo Pokémon and Pokémon character names are trademarks of Nintendo. Other trademarks are the property of their respective owners.
+[Privacy Policy](http://www.pokemon.com/us/privacy-policy/)
+
+[CatchBotGo](https://github.com/Leaderide/CatchBotGo) is intended for academic purposes and should not be used to play the game *PokemonGo* as it is unfair to the community. Use the bot **at your own risk**.
